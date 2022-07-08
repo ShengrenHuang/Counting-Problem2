@@ -1,6 +1,6 @@
 # Counting-Problem2
 
-In this exercise, we aim to adopt the algorithm from [1] to implement the vehicle tracking algorithm using YOLO (You Only Look Once) [2] and Deep Sort (Simple online and Realtime Tracking) [3] in order to solve the vehicle counting problem via learning methodology. Unfortunately, we fail to establish the development environment for python running CUDA and sort of machine learning tools due to unexpected hardware limitations (we will fix it up soon). Nevertheless, we can figure out the big picture of multi-object tracking which is a main philosophy of vehicle counting problem by referring to [4].
+In this exercise, we aim to adopt the source code from [1] to implement the vehicle tracking algorithm using YOLO (You Only Look Once) [2] and Deep Sort (Simple online and Realtime Tracking) [3] in order to solve the vehicle counting problem via learning methodology. Unfortunately, we fail to establish the development environment for python running CUDA and sort of machine learning tools due to unexpected hardware limitations (we will fix it up soon). Nevertheless, we can figure out the big picture of multi-object tracking which is a main philosophy of vehicle counting problem by referring to [4].
 
 big picture.
 
